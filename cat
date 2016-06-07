@@ -1,0 +1,3 @@
+f = fs.open(...,"r")
+print(f.readAll())
+f.close()
